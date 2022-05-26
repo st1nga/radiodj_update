@@ -1,0 +1,31 @@
+{
+  "name": "radiodj_update",
+  "version": "1.0.0",
+  "description": "Webscreens to update RadioDJ data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/st1nga/radiodj_update.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/st1nga/radiodj_update/issues"
+  },
+  "homepage": "https://github.com/st1nga/radiodj_update#readme",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "config": "^3.3.6",
+    "mqtt": "^4.2.8",
+    "mysql": "^2.18.1",
+    "mysql-named-params-escape": "^1.0.2",
+    "nodemon": "^2.0.12",
+    "strftime": "^0.10.0",
+    "toml": "^3.0.0",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3"
+  }
+}

@@ -1,0 +1,16 @@
+[sql]
+username = ""
+password = ""
+database = ""
+host = ""
+
+[report]
+logger_name = "radiodj_update"
+log_file = "/var/log/radiodj_update.log"
+
+[mqtt]
+host = ""
+username = ""
+password = ""
+port =
+topic = ""
